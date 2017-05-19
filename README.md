@@ -1,8 +1,12 @@
 # wsl-setting
 wsl-terminal settings
 
-## vim
+## source list
+
+## develop enviroment
+
+## Vim
 * [vimrc](https://github.com/pkuliubin/vimrc)
 
-## terminal color scheme
+## Terminal color scheme
 * [Solarized](http://www.cnblogs.com/RandyXu/p/3279090.html)
