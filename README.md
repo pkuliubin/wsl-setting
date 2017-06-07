@@ -1,5 +1,5 @@
 # wsl-terminal 设置
-wsl-terminal settings
+[wsl-terminal](https://github.com/goreliu/wsl-terminal) settings
 
 ## 更换源
 * 备份源列表 
